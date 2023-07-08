@@ -1,0 +1,16 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+#Contact input {
+    width: 100px;
+    margin: 10px;
+    border: 2px green dotted;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.5);
+}
+
+#Contact input:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
