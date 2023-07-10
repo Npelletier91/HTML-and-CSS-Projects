@@ -4,14 +4,23 @@ These projects are part of the learning process of the HTML and CSS course for T
 
 ## Projects
 
+- [Portfolio Website](#portfolio)
 - [Bootstrap_Cinema_Project](#bootstrap_cinema_project)
 - [Cella's Kitchen](#cellas_kitchen)
 
 
+
+## Portfolio
+
+This is my personal website that introduces me and displays my work as a developer. 
+
+
 ## Bootstrap_Cinema_Project
 
-A website designed with bootstrap for listing movies for a theater.
+A website designed with Bootstrap for listing movies for a theater.
+
 
 ## Cellas_Kitchen
 
-A website for a for someone with recipes of farm fresh vegitables.
+A website for someone with recipes of farm fresh vegetables.
+
